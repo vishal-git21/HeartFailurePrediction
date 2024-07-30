@@ -35,6 +35,8 @@ The dataset includes various attributes such as age, sex, chest pain type, blood
 
 The models achieved an accuracy of approximately 90%. The high performance indicates the effectiveness of the chosen models. However, it is noted that a dataset with a greater number of data points could potentially improve model performance further.
 
+![image](https://github.com/user-attachments/assets/b1bae50e-1012-40f8-be27-e0f619d9fdd1)  ![image](https://github.com/user-attachments/assets/63ab2d78-58dd-4bde-993e-828371004156)
+
 ## Installation
 
 Clone the repository :
